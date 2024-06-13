@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1258-article-views-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1292-immediate-food-delivery-ii) |
+| [1317-monthly-transactions-i](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1317-monthly-transactions-i) |
 | [1415-students-and-examinations](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
