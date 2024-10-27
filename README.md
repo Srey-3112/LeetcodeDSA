@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
@@ -90,9 +91,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
