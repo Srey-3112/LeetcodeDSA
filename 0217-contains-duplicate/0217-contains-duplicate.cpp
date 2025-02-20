@@ -13,19 +13,19 @@ public:
         // return false;
 
 
-        // sort(nums.begin(), nums.end());
-        // for(int i=1;i<nums.size();i++){
-        //     if(nums[i] == nums[i-1]){
-        //         return true;
-        //     }
-        // }
-        // return false;
-
-        unordered_set<int> seen;
-        for(auto num: nums){
-            if(seen.count(num)) return true;
-            seen.insert(num);
+        sort(nums.begin(), nums.end());
+        for(int i=1;i<nums.size();i++){
+            if(nums[i] == nums[i-1]){
+                return true;
+            }
         }
         return false;
+
+        // unordered_set<int> seen;
+        // for(auto num: nums){
+        //     if(seen.count(num)) return true;
+        //     seen.insert(num);
+        // }
+        // return false;
     }
 };
