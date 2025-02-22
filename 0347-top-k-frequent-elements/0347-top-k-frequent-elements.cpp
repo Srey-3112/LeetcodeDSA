@@ -18,9 +18,13 @@ public:
             }
         }
 
-        vector<int> result(k);
-        for(int i=k-1; i>=0;i--){
-            result[i]=minHeap.top().second;
+        vector<int> result;
+        // for(int i=k-1; i>=0;i--){
+        //     result[i]=minHeap.top().second;
+        //     minHeap.pop();
+        // }
+        while(!minHeap.empty()){
+            result.push_back(minHeap.top().second);
             minHeap.pop();
         }
         return result;
