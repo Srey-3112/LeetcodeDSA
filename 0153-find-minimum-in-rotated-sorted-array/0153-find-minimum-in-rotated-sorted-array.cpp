@@ -8,6 +8,7 @@ public:
         int ans= INT_MAX;
         while(low<=high){
             int mid=(low+high)/2;
+            //if(nums[low]<=nums[high]) return nums[low];
             if(nums[low]<=nums[mid]){
                 ans=min(ans,nums[low]);
                 low=mid+1;
