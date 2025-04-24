@@ -1,3 +1,7 @@
+//In this problem first we first found which part is sorted. Further we found min
+//from sorted and eliminated that sorted part and moved low or high accordingly
+// to unsorted array. 
+
 class Solution {
 public:
     int findMin(vector<int>& nums) {
