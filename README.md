@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0907-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0907-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
