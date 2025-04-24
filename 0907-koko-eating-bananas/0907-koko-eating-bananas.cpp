@@ -7,14 +7,15 @@
 class Solution {
 
 private:
-    double hoursCal(vector<int> &arr, int mid){
+    bool hoursCal(vector<int> &arr, int mid, int h){
 
         int n=arr.size();
-        double totalHrs=0;
+        int totalHrs=0;
         for(int i=0;i<n;i++){
-            totalHrs+= ceil((double)arr[i]/(double)mid);
+            totalHrs+= ceil((double)arr[i]/mid);
+            if(totalHrs>h) return false;
         }
-        return totalHrs;
+        return true;
     }
     int maxE(vector<int> &arr){
         int n=arr.size();
@@ -31,8 +32,7 @@ public:
         int high=maxE(piles);
         while(low<=high){
             int mid=(low+high)/2;
-            double totalHrs = hoursCal(piles,mid);
-            if(totalHrs<=h){
+            if(hoursCal(piles,mid,h)){
                 high=mid-1;
             }
             else low=mid+1;
