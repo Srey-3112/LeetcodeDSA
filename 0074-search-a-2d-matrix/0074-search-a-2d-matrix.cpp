@@ -1,3 +1,11 @@
+// main point of this problem is to figure out how you can get 2d index after 
+//calculating mid.
+// else this problem is simple binary search
+
+//TC: O(log(m*n))
+//SC: O(1)
+
+
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
