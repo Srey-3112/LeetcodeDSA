@@ -187,11 +187,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0155-min-stack) |
 | [1023-time-based-key-value-store](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1023-time-based-key-value-store) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0155-min-stack) |
 ## Backtracking
 |  |
 | ------- |
