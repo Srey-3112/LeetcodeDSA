@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0021-merge-two-sorted-lists) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0110-balanced-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0110-balanced-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -236,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
@@ -245,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0110-balanced-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
