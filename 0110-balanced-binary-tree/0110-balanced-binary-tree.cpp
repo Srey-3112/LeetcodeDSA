@@ -12,32 +12,23 @@
 class Solution {
 
 private:
-    int maxHeight(TreeNode* node){
+    int dfsHeight(TreeNode* node){
 
         if(node==nullptr) return 0;
-        int lf=maxHeight(node->left);
-        int rt=maxHeight(node->right);
+        
+        int lf=dfsHeight(node->left);
+        if(lf==-1) return -1;
+        int rt=dfsHeight(node->right);
+        if(rt==-1) return -1;
+
+        if(abs(lf-rt)>1) return -1;
+
 
         return 1+max(lf,rt);
 
     }
 public:
     bool isBalanced(TreeNode* root) {
-        if(root==nullptr) return true;
-
-        int leftMaxHeight= maxHeight(root->left);
-        int rightMaxHeight= maxHeight(root->right);
-
-        if(abs(rightMaxHeight-leftMaxHeight) >1){
-                return false;
-        } 
-
-        bool left=isBalanced(root->left);
-        bool right=isBalanced(root->right);
-
-        if(!left || !right) return false;
-        return true; 
-
-        
+        return dfsHeight(root) != -1;
     }
 };
