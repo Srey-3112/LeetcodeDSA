@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1036-rotting-oranges) |
+| [1126-minimum-cost-to-connect-sticks](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1126-minimum-cost-to-connect-sticks) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
+| [1126-minimum-cost-to-connect-sticks](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1126-minimum-cost-to-connect-sticks) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0011-container-with-most-water) |
+| [1126-minimum-cost-to-connect-sticks](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1126-minimum-cost-to-connect-sticks) |
 ## Math
 |  |
 | ------- |
