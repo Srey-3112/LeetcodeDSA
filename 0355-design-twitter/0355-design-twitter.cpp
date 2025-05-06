@@ -10,13 +10,13 @@ public:
     }
     
     void postTweet(int userId, int tweetId) {
-        tweet[userId].emplace_back(time--,tweetId);
+        tweet[userId].emplace_back(time++,tweetId);
     }
     
     vector<int> getNewsFeed(int userId) {
 
-        auto cmp = [](pair<int, int>& a, pair<int, int>& b) {
-        return a.first > b.first; // min-heap based on time
+    auto cmp = [](pair<int, int>& a, pair<int, int>& b) {
+        return a.first < b.first; // min-heap based on time
     };
 
     priority_queue<pair<int, int>, vector<pair<int, int>>, decltype(cmp)> pq(cmp);
