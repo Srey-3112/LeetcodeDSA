@@ -44,12 +44,11 @@ public:
             }
         }
 
-        if(k <= left.size()){
+        if(k<=left.size()){
             return quickSelect(left,k);
         }
-
-        if(left.size() + mid.size() < k){
-            return quickSelect(right, k - left.size() - mid.size());
+        if(k>left.size()+mid.size()){
+            return quickSelect(right,k-left.size()-mid.size());
         }
         return pivot;
     }
