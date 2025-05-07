@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1036-rotting-oranges) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1126-minimum-cost-to-connect-sticks) |
+| [1127-last-stone-weight](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1127-last-stone-weight) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1126-minimum-cost-to-connect-sticks) |
+| [1127-last-stone-weight](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
