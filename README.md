@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [0636-exclusive-time-of-functions](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0792-binary-search) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [1023-time-based-key-value-store](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1023-time-based-key-value-store) |
 ## Sliding Window
 |  |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0621-task-scheduler) |
 ## Two Pointers
 |  |
 | ------- |
@@ -154,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0355-design-twitter) |
+| [0621-task-scheduler](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1126-minimum-cost-to-connect-sticks) |
 ## Bucket Sort
 |  |
@@ -163,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -194,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1126-minimum-cost-to-connect-sticks) |
 ## Math
 |  |
