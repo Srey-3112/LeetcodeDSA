@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Design
 |  |
