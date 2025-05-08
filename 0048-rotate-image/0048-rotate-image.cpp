@@ -21,9 +21,11 @@ public:
 
         //optimal
 
-        //TC:
-        //SC:
+        //TC: for every swapping (n-1)+(n-2)+....+1 = n*(n-1)/2 = O(n*n) and 
+        //for reverse also O(n*n) total= O(2n*n)= overall O(n*n)
+        //SC: O(1)
 
+        //O(n*n)
         for(int i=0;i<=n-2;i++){
             for(int j=i+1;j<=n-1;j++){
                 int temp=matrix[i][j];
@@ -31,7 +33,7 @@ public:
                 matrix[j][i]=temp;
             }
         }   
-
+        //O(n*n)
         for(int i=0;i<n;i++){
             reverse(matrix[i].begin(),matrix[i].end());
         } 
