@@ -9,8 +9,10 @@ public:
             int freq[26]={0};
             for(char s : str) freq[s-'a']++;
             for(int i=0;i<26;i++){
-                hashStr.push_back(freq[i]);
-                //hashStr.push_back('#');
+                // hashStr.push_back(freq[i]);
+                // hashStr.push_back('#');
+                hashStr += to_string(freq[i]) + "#";
+                
             }
             mpp[hashStr].push_back(str); 
         }
