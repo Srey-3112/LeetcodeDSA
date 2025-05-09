@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [0636-exclusive-time-of-functions](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0739-daily-temperatures) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0621-task-scheduler) |
 ## Two Pointers
 |  |
@@ -219,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1126-minimum-cost-to-connect-sticks) |
 ## Math
