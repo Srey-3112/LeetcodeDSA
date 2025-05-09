@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0621-task-scheduler) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0253-meeting-rooms-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
@@ -151,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0253-meeting-rooms-ii](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0567-permutation-in-string) |
 ## Linked List
@@ -173,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0253-meeting-rooms-ii](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0355-design-twitter) |
@@ -224,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0011-container-with-most-water) |
+| [0253-meeting-rooms-ii](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0253-meeting-rooms-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1126-minimum-cost-to-connect-sticks) |
