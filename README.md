@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0238-product-of-array-except-self) |
+| [0252-meeting-rooms](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0252-meeting-rooms) |
 | [0347-top-k-frequent-elements](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0621-task-scheduler) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0242-valid-anagram) |
+| [0252-meeting-rooms](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0252-meeting-rooms) |
 | [0295-find-median-from-data-stream](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
