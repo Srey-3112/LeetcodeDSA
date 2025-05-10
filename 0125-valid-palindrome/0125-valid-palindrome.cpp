@@ -20,12 +20,12 @@ private:
 public:
     bool isPalindrome(string s) {
         string temp="";
-        for(int j=0;j<s.length();j++){
+        for(int j=0;j<s.size();j++){
             if(valid(s[j])){
                 temp.push_back(s[j]);
             }
         }
-        for(int j=0;j<temp.length();j++){
+        for(int j=0;j<temp.size();j++){
             temp[j]= toLowerCase(temp[j]);
         }
         
