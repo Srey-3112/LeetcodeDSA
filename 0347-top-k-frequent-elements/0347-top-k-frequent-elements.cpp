@@ -2,31 +2,48 @@ class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
 
-        unordered_map<int,int> mpp;
+        unordered_map<int, int> freq;
+    for (int num : nums) {
+        freq[num]++;
+    }
 
-        for(auto it:nums){
-            mpp[it]++;
+    // Bucket where index = frequency
+    vector<vector<int>> buckets(nums.size() + 1);
+    for (auto& [num, count] : freq) {
+        buckets[count].push_back(num);
+    }
+
+    vector<int> result;
+    for (int i = buckets.size() - 1; i >= 0 && result.size() < k; --i) {
+        for (int num : buckets[i]) {
+            result.push_back(num);
+            if (result.size() == k) break;
         }
+    }
 
-        priority_queue<pair<int,int>,vector<pair<int,int>>, greater<pair<int,int>>> minHeap;
+    return result;
 
-        for(auto it: mpp){
-            minHeap.push({it.second,it.first});
+        // unordered_map<int,int> mpp;
 
-            if(minHeap.size()>k){
-                minHeap.pop();
-            }
-        }
+        // for(auto it:nums){
+        //     mpp[it]++;
+        // }
 
-        vector<int> result;
-        // for(int i=k-1; i>=0;i--){
-        //     result[i]=minHeap.top().second;
+        // priority_queue<pair<int,int>,vector<pair<int,int>>, greater<pair<int,int>>> minHeap;
+
+        // for(auto it: mpp){
+        //     minHeap.push({it.second,it.first});
+
+        //     if(minHeap.size()>k){
+        //         minHeap.pop();
+        //     }
+        // }
+
+        // vector<int> result;
+        // while(!minHeap.empty()){
+        //     result.push_back(minHeap.top().second);
         //     minHeap.pop();
         // }
-        while(!minHeap.empty()){
-            result.push_back(minHeap.top().second);
-            minHeap.pop();
-        }
-        return result;
+        // return result;
     }
 };
