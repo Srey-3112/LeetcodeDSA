@@ -14,11 +14,9 @@ public:
     }
 
     vector<int> result;
-    for (int i = buckets.size() - 1; i >= 0; --i) {
+    for (int i = buckets.size() - 1; i >= 0 && result.size() < k; --i) {
         for (int num : buckets[i]) {
-            if (result.size() == k) break;
-            result.push_back(num);
-            
+            result.push_back(num); 
         }
     }
 
