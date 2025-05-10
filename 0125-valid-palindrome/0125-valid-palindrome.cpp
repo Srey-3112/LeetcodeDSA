@@ -19,27 +19,19 @@ private:
     }
 public:
     bool isPalindrome(string s) {
-        string temp="";
-        for(int j=0;j<s.size();j++){
-            if(valid(s[j])){
-                temp.push_back(s[j]);
-            }
-        }
-        for(int j=0;j<temp.size();j++){
-            temp[j]= toLowerCase(temp[j]);
-        }
-        
         int left=0;
-        int right=temp.size()-1;
+        int right=s.size()-1;
 
-        while(left<=right){
-            if(temp[left]!=temp[right]){
+        while(left<right){
+            while(left<right && !valid(s[left])) left++;
+            while(left<right && !valid(s[right])) right --;
+
+            if(toLowerCase(s[left]) != toLowerCase(s[right])){
                 return false;
             }
-            else{
-                left++;
-                right--;
-            }
+
+            left++;
+            right--;
         } 
         return true;
 
