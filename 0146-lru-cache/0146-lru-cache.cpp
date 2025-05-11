@@ -25,7 +25,7 @@ private:
 
     }
 public:
-    map<int,Node*> mpp;
+    unordered_map<int,Node*> mpp;
     int capacity;
     Node* head=new Node(-1,-1,nullptr,nullptr);
     Node* tail=new Node(-1,-1,nullptr,nullptr);
