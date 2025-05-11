@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0253-meeting-rooms-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0621-task-scheduler) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0253-meeting-rooms-ii](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0253-meeting-rooms-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0567-permutation-in-string) |
 ## Linked List
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1023-time-based-key-value-store) |
@@ -359,4 +362,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0146-lru-cache) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
