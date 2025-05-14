@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1036-rotting-oranges) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1127-last-stone-weight) |
+| [2045-cutting-ribbons](https://github.com/Srey-3112/LeetcodeDSA/tree/master/2045-cutting-ribbons) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-peak-index-in-a-mountain-array](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1023-time-based-key-value-store) |
+| [2045-cutting-ribbons](https://github.com/Srey-3112/LeetcodeDSA/tree/master/2045-cutting-ribbons) |
 ## Greedy
 |  |
 | ------- |
