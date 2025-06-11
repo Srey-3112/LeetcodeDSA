@@ -99,12 +99,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1036-rotting-oranges) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1127-last-stone-weight) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2045-cutting-ribbons](https://github.com/Srey-3112/LeetcodeDSA/tree/master/2045-cutting-ribbons) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0253-meeting-rooms-ii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0567-permutation-in-string) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Sorting
 |  |
 | ------- |
