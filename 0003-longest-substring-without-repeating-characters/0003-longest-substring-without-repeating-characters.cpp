@@ -41,23 +41,46 @@ public:
         // }
 
 
-        unordered_set<char> charSet;
+        int hashLen=256;
+        vector<int> hash(hashLen,-1);
+
+        int n=s.size();
         int l=0;
+        int r=0;
         int maxLen=0;
 
-        for(int r=0;r<s.size();r++){
-
-            while(charSet.find(s[r]) != charSet.end()){
-                charSet.erase(s[l]);
-                l++;
+        while(r<n){
+            if(hash[s[r]] != -1){
+                l=max(hash[s[r]]+1,l);
             }
 
-            maxLen=max(maxLen,r-l+1);
-            charSet.insert(s[r]);
+            maxLen=max(r-l+1,maxLen);
+            hash[s[r]]=r;
+            r++;
         }
 
 
+
+
+        // unordered_set<char> charSet;
+        // int l=0;
+        // int maxLen=0;
+
+        // for(int r=0;r<s.size();r++){
+
+        //     while(charSet.find(s[r]) != charSet.end()){
+        //         charSet.erase(s[l]);
+        //         l++;
+        //     }
+
+        //     maxLen=max(maxLen,r-l+1);
+        //     charSet.insert(s[r]);
+        // }
+
+
         return maxLen;
+
+
 
 
 
