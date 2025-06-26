@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-peak-index-in-a-mountain-array](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1127-last-stone-weight) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0253-meeting-rooms-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
 |  |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0567-permutation-in-string) |
+| [1046-max-consecutive-ones-iii](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Sorting
 |  |
@@ -248,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-peak-index-in-a-mountain-array](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1023-time-based-key-value-store) |
+| [1046-max-consecutive-ones-iii](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2045-cutting-ribbons](https://github.com/Srey-3112/LeetcodeDSA/tree/master/2045-cutting-ribbons) |
 ## Greedy
 |  |
