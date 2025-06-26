@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1023-time-based-key-value-store) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Srey-3112/LeetcodeDSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Array
 |  |
 | ------- |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Srey-3112/LeetcodeDSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1126-minimum-cost-to-connect-sticks) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Srey-3112/LeetcodeDSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Math
 |  |
 | ------- |
@@ -389,4 +392,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0287-find-the-duplicate-number) |
+## Memoization
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Srey-3112/LeetcodeDSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
