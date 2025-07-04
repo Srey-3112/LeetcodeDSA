@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [0636-exclusive-time-of-functions](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0636-exclusive-time-of-functions) |
+| [0735-asteroid-collision](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0636-exclusive-time-of-functions) |
+| [0735-asteroid-collision](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0739-daily-temperatures) |
 ## Backtracking
 |  |
@@ -391,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0735-asteroid-collision) |
 ## Doubly-Linked List
 |  |
 | ------- |
