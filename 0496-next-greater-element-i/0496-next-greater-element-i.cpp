@@ -5,7 +5,7 @@ public:
         int n1=nums1.size();
         int n2= nums2.size();
         stack<int> st;
-        map<int,int> mpp;
+        unordered_map<int,int> mpp;
         vector<int> result;
 
         
