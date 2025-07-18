@@ -6,6 +6,15 @@ class Solution(object):
         :rtype: List[int]
         """
         
+        ### brute force will be as simple as running 2 for loops
+        ## TC : O(n2)
+        ## SC: O(1)
+
+
+        ### using hashMap in one pass
+        ## TC: O(n)
+        ## SC : O(n)
+
         prevMap={}
 
         for i,n in enumerate(nums):
