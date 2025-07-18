@@ -32,30 +32,30 @@ class Solution(object):
 
         ### hasthtable using array
 
-        # arr= [0]*26
-        # if len(s)!=len(t):
-        #     return False
+        arr= [0]*26
+        if len(s)!=len(t):
+            return False
 
-        # for i in range(len(s)):
-        #     arr[ord(s[i]) - ord('a')]+=1
-        #     arr[ord(t[i]) - ord('a')]-=1
+        for i in range(len(s)):
+            arr[ord(s[i]) - ord('a')]+=1
+            arr[ord(t[i]) - ord('a')]-=1
 
-        # for val in arr:
-        #     if val!=0:
-        #         return False
+        for val in arr:
+            if val!=0:
+                return False
 
-        # return True
+        return True
 
 
         ### using set
 
-        if len(s) != len(t) :
-            return False
-        ss = set(s)
-        for i in ss :
-            if  s.count(i) != t.count(i) :
-                return False
-        return True 
+        # if len(s) != len(t) :
+        #     return False
+        # ss = set(s)
+        # for i in ss :
+        #     if  s.count(i) != t.count(i) :
+        #         return False
+        # return True 
 
 
 
