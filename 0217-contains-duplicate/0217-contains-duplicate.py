@@ -30,6 +30,8 @@ class Solution(object):
         # return False
 
         ### HashSet
+        ## TC : O(n)
+        ## SC: O(n)
 
         # seen=set()
         # for num in nums:
@@ -40,5 +42,13 @@ class Solution(object):
         # return False
 
         ### HashSet Length
+        ## TC : O(n)
+        ## SC: O(n)
 
         return len(set(nums)) < len(nums)
+
+
+
+
+        ## using hashset will be trade off between using sorting as in hashing
+        ## you will sacrifice space and reduce time complexity
