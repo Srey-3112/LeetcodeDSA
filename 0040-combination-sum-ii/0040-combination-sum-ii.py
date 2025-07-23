@@ -1,4 +1,35 @@
-class Solution(object):
+class Solution:
+    def combinationSum2(self, nums, target):
+        self.res = []
+        self.count = defaultdict(int)
+        cur = []
+        A = []
+        
+        for num in nums:
+            if self.count[num] == 0:
+                A.append(num)
+            self.count[num] += 1
+        self.backtrack(A, target, cur, 0)
+        return self.res
+
+    def backtrack(self, nums, target, cur, i):
+        if target == 0:
+            self.res.append(cur[:])
+            return
+        if target < 0 or i >= len(nums):
+            return
+        
+        if self.count[nums[i]] > 0:
+            cur.append(nums[i])
+            self.count[nums[i]] -= 1
+            self.backtrack(nums, target - nums[i], cur, i)
+            self.count[nums[i]] += 1
+            cur.pop()
+
+        self.backtrack(nums, target, cur, i + 1)
+
+
+#class Solution(object):
 
     # def func(self,arr,ind,sum,current,result):
 
@@ -36,40 +67,7 @@ class Solution(object):
 
     #     return result
     
-        def __init__(self):
-            self.ans = []
-        
-        def func(self, ind, sum, nums, candidates):
-            # If the sum is zero, add the current combination to the result
-            if sum == 0:
-                self.ans.append(nums[:])
-                return
-            
-            # If the sum is negative or we have exhausted the candidates, return
-            if sum < 0 or ind == len(candidates):
-                return
-            
-            # Include the current candidate
-            nums.append(candidates[ind])
-            
-            # Recursively call with updated sum and next index
-            self.func(ind + 1, sum - candidates[ind], nums, candidates)
-            
-            # Backtrack by removing the last added candidate
-            nums.pop()
-            
-            # Skip duplicates: if not picking the current candidate, 
-            # ensure the next candidate is different
-            for i in range(ind + 1, len(candidates)):
-                if candidates[i] != candidates[ind]:
-                    self.func(i, sum, nums, candidates)
-                    break
-
-        def combinationSum2(self, candidates, target):
-            candidates.sort()  # Sort candidates to handle duplicates
-            self.ans = []
-            self.func(0, target, [], candidates)
-            return self.ans
+       
 
 
 
