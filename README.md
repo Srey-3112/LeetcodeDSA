@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0078-subsets) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -401,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0287-find-the-duplicate-number) |
 ## Memoization
 |  |
