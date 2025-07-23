@@ -23,9 +23,12 @@ class Solution(object):
         self.func(nums,ind+1,current,result)
         current.pop()
 
-        for i in range(ind+1,len(nums)):
-            if nums[i] != nums[ind]:
-                self.func(nums,i,current,result)
-                return
+        # for i in range(ind+1,len(nums)):
+        #     if nums[i] != nums[ind]:
+        #         self.func(nums,i,current,result)
+        #         return
+        idx=ind+1
+        while idx<len(nums) and nums[idx] == nums[idx-1]: #skipping the duplicate values
+            idx+=1
 
-        self.func(nums,len(nums),current,result)
+        self.func(nums,idx,current,result)
