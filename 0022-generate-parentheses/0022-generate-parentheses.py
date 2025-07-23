@@ -19,3 +19,6 @@ class Solution:
         self.generate(n,"",0,0,result)
         return result
         
+
+#TC: O(2^2n)
+#SC: O(2n) stack space + O(size(result))+ O(n) string
