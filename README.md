@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0131-palindrome-partitioning) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0242-valid-anagram](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Srey-3112/LeetcodeDSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Hash Table
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0131-palindrome-partitioning) |
 ## Monotonic Stack
 |  |
 | ------- |
