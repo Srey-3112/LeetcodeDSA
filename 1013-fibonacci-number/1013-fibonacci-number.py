@@ -1,3 +1,5 @@
+# TC: O(n)
+# SC: O(n) stack space + O(n) dp array
 class Solution(object):
     def f(self,n,dp):
         if n<=1:
