@@ -4,7 +4,9 @@ class Solution(object):
         :type cost: List[int]
         :rtype: int
         """
-        
+        ############# DP top down (Memoization) ###################
+
+        #dp=[-1]*len(cost)
         # def func(i):
 
         #     if i>=len(cost):
@@ -16,7 +18,9 @@ class Solution(object):
         #     dp[i]=cost[i]+min(func(i+1),func(i+2))
 
         #     return dp[i]
+        #return min(func(0),func(1))
 
+        ############# DP bottom up (Tabulation)###################
         # n = len(cost)
         # dp = [0] * (n + 1)
         
@@ -27,7 +31,7 @@ class Solution(object):
         # return dp[n]
 
 
-
+        ############# DP + Space optimised ###################
         for i in range(len(cost) - 3, -1, -1):
             cost[i] += min(cost[i + 1], cost[i + 2])
 
