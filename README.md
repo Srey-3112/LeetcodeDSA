@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0636-exclusive-time-of-functions](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0907-koko-eating-bananas) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
+| [0747-min-cost-climbing-stairs](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1013-fibonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Srey-3112/LeetcodeDSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Hash Table
