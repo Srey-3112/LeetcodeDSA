@@ -4,23 +4,31 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        dp=[-1]*len(nums)
-        def func(ind):
+        n=len(nums)
+        dp=[0]*(n+2)
 
+        for i in range(n-1,-1,-1):
+            pick=nums[i]+dp[i+2]
+            notPick= dp[i+1]
 
-            if ind>=len(nums):
-                return 0
+            dp[i]=max(pick,notPick)
 
-            if dp[ind]!=-1:
-                return dp[ind]
+        return dp[0]
+        # def func(ind):
 
-            pick= nums[ind]+func(ind+2)
-            nPick=0+func(ind+1)
+        #     if ind>=len(nums):
+        #         return 0
 
-            dp[ind]=max(pick,nPick)
-            return dp[ind]
+        #     if dp[ind]!=-1:
+        #         return dp[ind]
+
+        #     pick= nums[ind]+func(ind+2)
+        #     nPick=0+func(ind+1)
+
+        #     dp[ind]=max(pick,nPick)
+        #     return dp[ind]
 
         
-        return func(0)
+        
 
         
