@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0252-meeting-rooms](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0131-palindrome-partitioning) |
+| [0322-coin-change](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1013-fibonacci-number) |
@@ -371,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [1036-rotting-oranges](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1544-count-good-nodes-in-binary-tree) |
