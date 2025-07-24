@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
+| [1013-fibonacci-number](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1013-fibonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Srey-3112/LeetcodeDSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Hash Table
 |  |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -284,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1013-fibonacci-number](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1013-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -421,5 +424,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1013-fibonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Srey-3112/LeetcodeDSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
