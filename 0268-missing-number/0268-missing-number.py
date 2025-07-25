@@ -5,9 +5,13 @@ class Solution(object):
         :rtype: int
         """
         n=len(nums)
-        xor=n
+        # xor=n
 
+        # for i in range(n):
+        #     xor=xor^i^nums[i]
+        # return xor
+        res=n
         for i in range(n):
-            xor=xor^i^nums[i]
-        return xor
+            res=res+i-nums[i]
+        return res
         
