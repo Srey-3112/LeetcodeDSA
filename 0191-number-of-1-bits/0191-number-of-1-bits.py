@@ -10,10 +10,18 @@ class Solution(object):
         #     res+=1
         # return res
 
+        # res=0
+        # for i in range(32):
+        #     if ((n>>i)&1):
+        #         res+=1
+        # return res
+
         res=0
-        for i in range(32):
-            if ((n>>i)&1):
+
+        while n:
+            if n&1:
                 res+=1
+            n>>=1
         return res
 
 
