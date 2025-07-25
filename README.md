@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0253-meeting-rooms-ii) |
+| [0268-missing-number](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0217-contains-duplicate](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0253-meeting-rooms-ii) |
+| [0268-missing-number](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
@@ -274,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -299,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1013-fibonacci-number) |
 ## Design
 |  |
@@ -436,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0338-counting-bits) |
 ## Memoization
