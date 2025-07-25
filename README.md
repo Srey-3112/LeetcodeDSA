@@ -298,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0066-plus-one) |
