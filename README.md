@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [0636-exclusive-time-of-functions](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0636-exclusive-time-of-functions) |
+| [0695-max-area-of-island](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0747-min-cost-climbing-stairs) |
@@ -263,12 +264,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0695-max-area-of-island) |
 ## Binary Search
 |  |
 | ------- |
@@ -375,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -388,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
