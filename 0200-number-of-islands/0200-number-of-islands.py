@@ -18,27 +18,44 @@ class Solution(object):
                 if not vis[i][j] and grid[i][j]=='1':
 
                     count+=1
-                    self.bfs(i,j,vis,grid)
+                    #self.bfs(i,j,vis,grid)
+                    self.dfs(i,j,vis,grid)
 
         return count
 
-    def bfs(self,i,j,vis,grid):
-        vis[i][j]=1
-        q=deque()
-        q.append((i,j))
+    def dfs(self,i,j,vis,grid):
+
         n=len(grid)
         m=len(grid[0])
-        while q:
-            row,col=q.popleft()
+        if self.isValid(n,m,i,j) and not vis[i][j] and grid[i][j]=='1':
+            vis[i][j]=1
+            self.dfs(i+1,j,vis,grid)
+            self.dfs(i-1,j,vis,grid)
+            self.dfs(i,j+1,vis,grid)
+            self.dfs(i,j-1,vis,grid)
 
-            for delRow,delCol in ((1,0),(-1,0),(0,1),(0,-1)):
 
-                newRow=row+delRow
-                newCol=col+delCol
 
-                if self.isValid(n,m,newRow,newCol) and not vis[newRow][newCol] and grid[newRow][newCol]=='1':
-                    vis[newRow][newCol]=1
-                    q.append((newRow,newCol))
+
+
+
+    # def bfs(self,i,j,vis,grid):
+    #     vis[i][j]=1
+    #     q=deque()
+    #     q.append((i,j))
+    #     n=len(grid)
+    #     m=len(grid[0])
+    #     while q:
+    #         row,col=q.popleft()
+
+    #         for delRow,delCol in ((1,0),(-1,0),(0,1),(0,-1)):
+
+    #             newRow=row+delRow
+    #             newCol=col+delCol
+
+    #             if self.isValid(n,m,newRow,newCol) and not vis[newRow][newCol] and grid[newRow][newCol]=='1':
+    #                 vis[newRow][newCol]=1
+    #                 q.append((newRow,newCol))
 
     def isValid(self,n,m,row,col):
 
