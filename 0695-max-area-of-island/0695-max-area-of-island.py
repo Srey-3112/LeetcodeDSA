@@ -16,11 +16,24 @@ class Solution(object):
             for j in range(m):
 
                 if grid[i][j]==1 and not vis[i][j]:
-                    count=self.bfs(i,j,vis,grid)
+                    #count=self.bfs(i,j,vis,grid)
+                    count=self.dfs(i,j,grid)
                     maxCount=max(maxCount,count)
-
-
         return maxCount
+
+    def dfs(self,sr,sc,grid):
+        n=len(grid)
+        m=len(grid[0])
+        if sr < 0 or sr >= n or sc < 0 or sc >= m or grid[sr][sc]==0:
+            return 0
+        grid[sr][sc]=0
+        area=1
+        area+=self.dfs(sr+1,sc,grid)
+        area+=self.dfs(sr,sc+1,grid)
+        area+=self.dfs(sr-1,sc,grid)
+        area+=self.dfs(sr,sc-1,grid)
+
+        return area
 
     def bfs(self,i,j,vis,grid):
         vis[i][j]=1
