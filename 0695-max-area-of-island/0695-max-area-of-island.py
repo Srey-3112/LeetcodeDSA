@@ -24,7 +24,7 @@ class Solution(object):
     def dfs(self,sr,sc,grid):
         n=len(grid)
         m=len(grid[0])
-        if sr < 0 or sr >= n or sc < 0 or sc >= m or grid[sr][sc]==0:
+        if not self.isValid(sr,sc,n,m) or grid[sr][sc]==0:
             return 0
         grid[sr][sc]=0
         area=1
