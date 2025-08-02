@@ -13,3 +13,4 @@ class Solution(object):
 
         return nums[0]
         
+        
