@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1127-last-stone-weight](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1127-last-stone-weight) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2045-cutting-ribbons](https://github.com/Srey-3112/LeetcodeDSA/tree/master/2045-cutting-ribbons) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Srey-3112/LeetcodeDSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/Srey-3112/LeetcodeDSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1013-fibonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Srey-3112/LeetcodeDSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Srey-3112/LeetcodeDSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
