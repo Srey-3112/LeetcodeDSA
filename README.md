@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1127-last-stone-weight) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Srey-3112/LeetcodeDSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2045-cutting-ribbons](https://github.com/Srey-3112/LeetcodeDSA/tree/master/2045-cutting-ribbons) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Srey-3112/LeetcodeDSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
